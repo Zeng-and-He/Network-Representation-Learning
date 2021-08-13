@@ -1,2 +1,2 @@
 # Network-Representation-Learning
-网络嵌入学习的基准模型
+网络嵌入表示学习的基准模型
